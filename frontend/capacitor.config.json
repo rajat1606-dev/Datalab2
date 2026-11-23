@@ -1,0 +1,8 @@
+{
+  "appId": "com.datalab.app",
+  "appName": "DataLab",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
